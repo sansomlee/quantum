@@ -9,3 +9,7 @@ The trick is to amplified the flipped state using average over the mean techniqu
 
 ### Quantum Circuit
 ![alt text](resources/1000px-Grovers_algorithm.svg.png)
+
+
+### Notes
+Uw is the door and 
