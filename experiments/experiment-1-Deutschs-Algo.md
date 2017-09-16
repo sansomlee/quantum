@@ -14,4 +14,4 @@ The trick is to use XOR gate to construct a f-CNOT gate to test the function if 
 ![alt text](DeutschCircuit.png)
 
 
-
+![alt text](Deutsch.pdf)
