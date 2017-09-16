@@ -19,4 +19,4 @@ Quirk Simulation for Grover's Alogrightm - http://algassert.com/quirk#circuit={"
 
 ### Links
 - I like this blog when explaining how Grover's work (with animation)- http://twistedoakstudios.com/blog/Post2644_grovers-quantum-search-algorithm
-- This lecture explain Grover's in detail - ![Lecture](resource/Grovers.pdf)
+- This lecture explain Grover's in detail - ![Lecture](resources/Grovers.pdf)
