@@ -8,7 +8,7 @@ Preliminary Quantum Computing Hack
 ### Papers
 - https://arxiv.org/pdf/0708.0261.pdf
 - http://www.csm.ornl.gov/~sheldon/public/IJCA-06.pdf
-- Deutsch QC paper - https://people.eecs.berkeley.edu/~christos/classics/Deutsch_quantum_theory.pdf
+- Deutsch's QC paper - https://people.eecs.berkeley.edu/~christos/classics/Deutsch_quantum_theory.pdf
 
 ### Tools
 - Quirk Simulator - http://algassert.com/quirk
