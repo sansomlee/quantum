@@ -13,3 +13,6 @@ The trick is to amplified the flipped state using average over the mean techniqu
 
 ### Notes
 Uw is the door and the diffusion operation is to boost the signal. Run it N^1/2 times will boost the coefficient of the state so that it can be detect for certain at measuring time.
+
+### Simulation
+Quirk Simulation for Grover's Alogrightm - http://algassert.com/quirk#circuit={"cols":[["X","X","X","X","X"],["H","H","H","H","H"],["Chance5"],["~vn6c"],["~m0if"],["Chance5"],["~vn6c"],["~m0if"],["Chance5"],["~vn6c"],["~m0if"],["Chance5"],["~vn6c"],["~m0if"],["Chance5"]],"gates":[{"id":"~vn6c","name":"Oracle","circuit":{"cols":[["Z","•","◦","•","•"]]}},{"id":"~m0if","name":"Grover's","circuit":{"cols":[["⊖","⊖","⊖","⊖","X"]]}},{"id":"~gik","name":"|10001>","circuit":{"cols":[["Z","◦","◦","◦","•"]]}}]}
