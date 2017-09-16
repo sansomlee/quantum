@@ -11,10 +11,6 @@ Given an oracle, a binary function f:{0,1}->{0,1}, find out if it is a constant 
 #### |x,y> -> |x, y ⊕ f(x)>
 The trick is to use XOR gate to construct a f-CNOT gate to test the function if it is a constant or balance one.
 
-![alt text](DeutschCircuit.png)
+![alt text](Deutsch.png)
 
-<object data="Deutsch.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Deutsch.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="Deutsch.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
