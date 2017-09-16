@@ -19,3 +19,4 @@ Preliminary Quantum Computing Hack
 
 ### Author
 Sansom Lee - sansom.lee@zerogravitylabs.ca
+Linkedin - https://www.linkedin.com/in/sansom-lee-65728492/
