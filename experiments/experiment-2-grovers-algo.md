@@ -12,4 +12,4 @@ The trick is to amplified the flipped state using average over the mean techniqu
 
 
 ### Notes
-Uw is the door and 
+Uw is the door and the diffusion operation is to boost the signal. Run it N^1/2 times will boost the coefficient of the state so that it can be detect for certain at measuring time.
