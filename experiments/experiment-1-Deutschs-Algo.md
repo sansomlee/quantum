@@ -14,4 +14,4 @@ The trick is to use XOR gate to construct a f-CNOT gate to test the function if 
 ![alt text](resources/Deutsch.png)
 
 ### Notes
-As you can see, it first prepare two qubits repectively at |0> and |1> state. It then superpositions both qubits. By applying XOR function for the result of f(x) and the second qubit y, the sign of the result states will change. By apply Hadamard gate again to first qubits, the signal will then reveal if the function is a constant one or a balanced one. 
+As you can see, it first prepare two qubits repectively at |0> and |1> state. It then superpositions both qubits. By applying XOR function for the result of f(x) and the second qubit y, the sign of the result states will change. By refactoring the terms, the signs for the **first qubit** will change. Thus when apply Hadamard gate again to first qubits and measure, the signal 0 or 1 will then reveal respectively if the function is a constant or a balanced one. 
