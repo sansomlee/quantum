@@ -18,5 +18,5 @@ Preliminary Quantum Computing Hack
 - D-Wave (quantum tutorial) - https://www.dwavesys.com/resources/tutorials
 
 ### Author
-Sansom Lee - sansom.lee@zerogravitylabs.ca
-Linkedin - https://www.linkedin.com/in/sansom-lee-65728492/
+- Sansom Lee - sansom.lee@zerogravitylabs.ca
+- Linkedin - https://www.linkedin.com/in/sansom-lee-65728492/
