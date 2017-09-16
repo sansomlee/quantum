@@ -8,6 +8,7 @@ Given an oracle, a binary function f:{0,1}->{0,1}, find out if it is a constant 
 
 ### Quantum Circuit
 
-|x,y> -> |x, f(x) + y>
+#### |x,y> -> |x, f(x) ⊕ y>
+The trick is to use XOR gate to construct a f-CNOT gate to test the function if it is a constant or balance one.
 
 ![alt text](DeutschCircuit.png)
