@@ -16,3 +16,7 @@ Uw is the door and the diffusion operation is to boost the signal. Run it N^1/2 
 
 ### Simulation
 Quirk Simulation for Grover's Alogrightm - http://algassert.com/quirk#circuit={"cols":[["X","X","X","X","X"],["H","H","H","H","H"],["Chance5"],["~vn6c"],["~m0if"],["Chance5"],["~vn6c"],["~m0if"],["Chance5"],["~vn6c"],["~m0if"],["Chance5"],["~vn6c"],["~m0if"],["Chance5"]],"gates":[{"id":"~vn6c","name":"Oracle","circuit":{"cols":[["Z","•","◦","•","•"]]}},{"id":"~m0if","name":"Grover's","circuit":{"cols":[["⊖","⊖","⊖","⊖","X"]]}},{"id":"~gik","name":"|10001>","circuit":{"cols":[["Z","◦","◦","◦","•"]]}}]}
+
+### Links
+- I like this blog when explaining how Grover's work - http://twistedoakstudios.com/blog/Post2644_grovers-quantum-search-algorithm
+- 
