@@ -8,4 +8,4 @@ Given an oracle and a set of states, find the state where f(x*) = -1. In layman'
 The trick is to amplified the flipped state using average over the mean technique. Once the state's coefficient has been boosted enough, there is a very high chance of the correct key will come up when measured.
 
 ### Quantum Circuit
-
+![alt text](1000px-Grovers_algorithm.svg.png)
